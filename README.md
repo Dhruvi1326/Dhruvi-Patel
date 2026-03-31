@@ -3,6 +3,16 @@
 
 "Bridging the gap between data-driven research and production-grade cloud engineering. Dedicated to building self-healing, automated infrastructures on GCP that prioritize fiscal accountability and operational excellence across the full SDLC."
 
+### 🧬 T-Shaped Expertise
+**Broad Context (Horizontal) | Deep Technical Specialization (Vertical)**
+
+| Horizontal Breadth (The "How") | Vertical Depth (The "What") |
+| :--- | :--- |
+| **DevOps & GitOps:** GitHub Actions, CI/CD, Linux (WSL2) | **Cloud FinOps:** GCP Cost Optimization & Governance |
+| **Containerization:** Docker, Microservices Architecture | **AI/MLOps:** RAG Pipelines & Vertex AI Search |
+| **IaC:** Terraform/HCL for Provisioning | **Pharma Analytics:** HIPAA & CDISC Data Standards |
+| **Databases:** PostgreSQL, SQL Alchemy, NoSQL | **Systems Thinking:** Advanced Research Methodology |
+
 ---
 
 ### 🚀 Featured Project: [FinOps Janitor](https://github.com/Dhruvi1326/finops-janitor)
